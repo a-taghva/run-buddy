@@ -12,3 +12,5 @@ A website that offers fitness training services.
 
 ## Contribution
 Made by Ali
+
+### ©️2019 Run Buddy, Inc
