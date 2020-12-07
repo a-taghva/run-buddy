@@ -11,6 +11,6 @@ A website that offers fitness training services.
 [Run Buddy](https://a-taghva.github.io/run-buddy/)
 
 ## Contribution
-Made by Ali
+Made with love  by Ali
 
 ### ©️2019 Run Buddy, Inc
