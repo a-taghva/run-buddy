@@ -152,16 +152,13 @@ section {
 
 /* What you do Styles Start */
 
-.intro {
-    text-align: center;
-}
-
 .section-title {
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px;
+    width: 50%;
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
 }
 
@@ -179,10 +176,10 @@ section {
     width: 80%;
     margin: 0 auto;
     font-size: 20px;
+    text-align: center;
 }
 
 .steps {
-    text-align: center;
     background: #fce138;
 }
 
@@ -214,9 +211,6 @@ section {
 
 
 /* Trainers Styles Start */
-.trainers {
-    text-align: center;
-}
 
 .trainer {
     width: 900px;
@@ -262,7 +256,6 @@ section {
 }
 
 .contact {
-    text-align: center;
     background: #024e76;
     overflow: auto;
 }
@@ -299,4 +292,8 @@ section {
 
 .contact-info a {
     color: #fce138;
+}
+
+.flex-row {
+    display: flex;
 }
